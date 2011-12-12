@@ -24,6 +24,7 @@ group :test do
   gem 'database_cleaner'
   gem 'capybara'
   gem 'rspec-rails'
+  gem 'jasmine'
 end
 
 group :test, :development do
